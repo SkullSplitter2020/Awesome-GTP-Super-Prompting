@@ -1,4 +1,4 @@
-                                             Forked from https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting
+                   Forked from https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting
 
 ---
 
